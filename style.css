@@ -5,6 +5,10 @@ p {
 #para1 {
   color:red;
 }
-#class1 {
+.class1 {
   color:green;
+}
+
+* {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular');
 }
