@@ -7,8 +7,15 @@ p {
 }
 .class1 {
   color:green;
+  background-color: bisque;
 }
-
+p.class1 {
+  font-weight:bold;
+}
 * {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular');
+  font-family: 'Lucida Sans', 'Lucida Sans Regular';
+}
+/*Group off similar styles for headers 3-5*/
+h3,h4,h5 {
+  font-family:Arial, Helvetica, sans-serif;
 }
